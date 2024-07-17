@@ -1,3 +1,3 @@
-Primeiro Projeto React 
+Primeiro Projeto React
 
-Curso React para Front-End  da plataforma ADA.TECH
+Curso React para Front-End da plataforma ADA.TECH
