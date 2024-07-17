@@ -2,6 +2,7 @@ import React from "react";
 import './styles/App.css'
 import { Navbar } from "./components/Navbar/Navbar";
 import { Article } from "./components/Article/Article";
+//import { Counter } from "./components/Counter/Counter";
 
 import designDashboard from "../src/assets/images/designing dashboard.png"
 import virbrantColor from "../src/assets/images/vibrant color.png"
