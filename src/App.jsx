@@ -9,6 +9,7 @@ import virbrantColor from "../src/assets/images/vibrant color.png"
 import daysImage from "../src/assets/images/36 days.png"
 
 
+//Componente funcional é uma função que retonar HTML.
 class App extends React.Component {
   render(){
     return (
